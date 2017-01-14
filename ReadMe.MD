@@ -45,4 +45,4 @@ And in this project, components installed via npm do not need to be included in 
  
  my understanding is the second lind should be run after the first line, so why the result should
     be 1 which is the length of mockUserData
-
+ 2. It has unit test for deffer, but how to test onSuccess, onError, function pass is a question
